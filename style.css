@@ -183,7 +183,7 @@ main p{
     border-right: none;
     border-top: 1px solid var(--line-clr);
     padding: 0;
-    position: fixed;
+    position: sticky;
     top: unset;
     bottom: 0;
 
