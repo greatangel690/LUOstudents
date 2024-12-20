@@ -171,6 +171,7 @@ main p{
 @media(max-width: 480px){
   body{
     grid-template-columns: auto 1fr;
+     display:grid;
   }
   
   .container{
@@ -185,7 +186,7 @@ main p{
     padding: 0;
     position: sticky;
     top: 0;
-    bottom: unset;
+    bottom: 0;
 
     > ul{
       padding: 0;
