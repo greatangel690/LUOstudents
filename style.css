@@ -36,7 +36,7 @@ body{
   top: 0;
   align-self: start;
   transition: 300ms ease-in-out;
-  overflow: hidden;
+  overflow: visible;
   text-wrap: nowrap;
 }
 #sidebar.close{
