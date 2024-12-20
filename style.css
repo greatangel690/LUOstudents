@@ -179,7 +179,7 @@ main p{
   }
   #sidebar{
     height: 60px;
-    width: 100%;
+    width: 50%;
     border-right: none;
     border-top: 1px solid var(--line-clr);
     padding: 0;
