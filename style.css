@@ -185,7 +185,7 @@ main p{
     padding: 0;
     position: sticky;
     top: 0;
-    bottom: 0;
+    bottom: unset;
 
     > ul{
       padding: 0;
