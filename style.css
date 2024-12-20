@@ -271,10 +271,11 @@ button:hover{
   background-color: #cf7349;
   text-decoration: none;
    h2{
-       color: white;
+       color:  color: black;;
    }
    a{
     text-decoration: none;
+	    color: black;
    }
 }
 .block:hover{
@@ -288,10 +289,11 @@ button:hover{
   background-color: #167080;
   text-decoration: none;
    h2{
-       color: white;
+       color: black;
    }
    a{
     text-decoration: none;
+	    color: black;
    }
 }
 .block1:hover{
@@ -305,10 +307,11 @@ button:hover{
   background-color: #168024;
   text-decoration: none;
    h2{
-       color: white;
+        color: black;
    }
    a{
     text-decoration: none;
+	    color: black;
    }
 }
 .block2:hover{
@@ -322,10 +325,11 @@ button:hover{
   background-color: #316a74;
   text-decoration: none;
    h2{
-       color: white;
+        color: black;
    }
    a{
     text-decoration: none;
+	    color: black;
    }
 }
 .block3:hover{
@@ -339,10 +343,11 @@ button:hover{
   background-color: #b82999;
   text-decoration: none;
    h2{
-       color: white;
+        color: black;
    }
    a{
     text-decoration: none;
+	    color: black;
    }
 }
 .block4:hover{
@@ -356,10 +361,11 @@ button:hover{
   background-color: #226633;
   text-decoration: none;
    h2{
-       color: white;
+        color: black;
    }
    a{
     text-decoration: none;
+	    color: black;
    }
 }
 .block5:hover{
@@ -373,10 +379,11 @@ button:hover{
   background-color: #9e523f;
   text-decoration: none;
    h2{
-       color: white;
+        color: black;
    }
    a{
     text-decoration: none;
+	    color: black;
    }
 }
 .block6:hover{
