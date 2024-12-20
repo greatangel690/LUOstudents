@@ -185,9 +185,8 @@ main p{
     border-top: 1px solid var(--line-clr);
     padding: 0;
     position: sticky;
-    top: 0;
+    top: unset;
     bottom: 0;
-    overflow:hidden;
 
     > ul{
       padding: 0;
@@ -195,7 +194,7 @@ main p{
       grid-auto-columns: 60px;
       grid-auto-flow: column;
       align-items: center;
-      overflow-x: scroll;
+      overflow-x: hidden;
     }
     ul li{
       height: 100%;
