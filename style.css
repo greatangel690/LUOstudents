@@ -185,8 +185,7 @@ main p{
     border-top: 1px solid var(--line-clr);
     padding: 0;
     position: sticky;
-    top: 0;
-    bottom: 0;
+    top: 0;
     overflow: visible;
     > ul{
       padding: 0;
@@ -212,7 +211,7 @@ main p{
     }
 
     ul li .sub-menu.show{
-      position: fixed;
+      position: sticky;
       bottom: 60px;
       left: 0;
       box-sizing: border-box;
