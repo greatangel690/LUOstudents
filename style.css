@@ -169,7 +169,7 @@ main p{
 }
 
 
-@media(max-width: 100px){
+@media(max-width: 480px){
   body{
     grid-template-columns: 1fr;
   }
