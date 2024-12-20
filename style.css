@@ -168,7 +168,7 @@ main p{
   border-radius: 10px;
 }
 
-@media(max-width: 480px){
+@media(max-width: 100px){
   body{
     grid-template-columns: auto 1fr;
   }
@@ -183,9 +183,10 @@ main p{
     border-right: none;
     border-top: 1px solid var(--line-clr);
     padding: 0;
-    position: sticky;
-    top: 0;
+    position: fixed;
+    top: unset;
     bottom: 0;
+
     > ul{
       padding: 0;
       display: grid;
@@ -193,7 +194,6 @@ main p{
       grid-auto-flow: column;
       align-items: center;
       overflow-x: scroll;
-      
     }
     ul li{
       height: 100%;
@@ -237,6 +237,7 @@ main p{
     }
   }
 }
+
 
 /*result*/
 .result{
