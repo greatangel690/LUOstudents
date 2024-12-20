@@ -187,7 +187,7 @@ main p{
     position: sticky;
     top: 0;
     bottom: 0;
-
+    overflow: visible;
     > ul{
       padding: 0;
       display: grid;
