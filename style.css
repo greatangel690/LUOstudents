@@ -179,14 +179,6 @@ main p{
     padding: 0;
   }
   #sidebar{
-    height: 60px;
-    width: 100%;
-    border-right: none;
-    border-top: 1px solid var(--line-clr);
-    padding: 0;
-    position: fixed;
-    top: unset;
-    bottom: 0;
 
     > ul{
       padding: 0;
