@@ -168,7 +168,7 @@ main p{
   border-radius: 10px;
 }
 
-@media(max-width: 100px){
+@media(max-width: 480px){
   body{
     grid-template-columns: auto 1fr;
   }
