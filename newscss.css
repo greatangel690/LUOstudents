@@ -60,7 +60,7 @@ span{
 
 @media(max-width: 480px){
 .wn{
-border:1px solid #ceafca
+box-sizing: border-box;
 padding: 20px;
 border-radius: 10px;
 background-color:#ceafca;
