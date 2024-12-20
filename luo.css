@@ -125,13 +125,11 @@ margin:70px 50px 30px 50px;
 /* contact*/
 
 .us{
-	 margin-top:30px;
-margin-left:50px;
-margin-bottom:20px;	 
+margin:20px;	 
 }
 .fline{
 	margin-bottom:0;
-	margin-left:100px;
+	margin-left:10px;
 	margin-top:30px;
 	font-size:20px;
 	margin-right:10px;
@@ -142,7 +140,7 @@ margin-bottom:20px;
 }
 .sline{
 	margin-bottom:0;
-	margin-left:100px;
+	margin-left:10px;
 	margin-top:0;
 	font-size:20px;
 	margin-right:10px;
@@ -153,7 +151,7 @@ margin-bottom:20px;
 	 color:#81156C;
 }
 .tline{
-	margin-left:100px;
+	margin-left:10px;
 	font-size:30px;
 	margin-right:10px;
 }
@@ -165,7 +163,7 @@ margin-bottom:20px;
 }
 .foline{
 	margin-bottom:0;
-	margin-left:100px;
+	margin-left:10px;
 	margin-top:0;
 	font-size:20px;
 	margin-right:10px;
