@@ -64,18 +64,19 @@ box-sizing: border-box;
 padding: 20px;
 border-radius: 10px;
 background-color:#ceafca;
-width: 300px;
+width: 350px;
 margin: 10px;
 box-shadow:0 20px 35px rgba(37, 37, 37, 0.7);
 .p1{
     font-size: 20px;
+	font-style:bold;
 }
 img{
    
     margin: 30px 10px 30px 0px;
 }
 span{
-    font-size: 15px;
+    font-size: 10px;
 }    
 }
 }
