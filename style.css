@@ -32,7 +32,7 @@ body{
   background-color: #2b011f;
   border-right: 1px solid var(--line-clr);
 
-  position: sticky;
+  position: static;
   top: 0;
   align-self: start;
   transition: 300ms ease-in-out;
@@ -128,8 +128,8 @@ body{
 
 main p{
   color:black;
-  margin-top: 5px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 .ns{
   border: 2px solid black;
