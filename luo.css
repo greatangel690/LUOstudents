@@ -85,8 +85,8 @@ margin:70px 50px 30px 50px;
 	 text-align:center;
 	 background-color:#e8c4e1;
 	 box-shadow:0 20px 35px rgba(0,0,1,0.9);
-	 margin-left: 150px;
-	 margin-right: 100px;
+	 margin-left: 10px;
+	 margin-right: 10px;
 
 }
 .six:hover{
@@ -185,6 +185,7 @@ margin-left: 70px;
 	  margin-top:50px;
 	  margin-bottom:50px;
 	  color:#81156C;
+	align-item:center;
 }
 body{
 	background-color: #c9d6ff;
