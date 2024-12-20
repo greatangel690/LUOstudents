@@ -37,6 +37,10 @@ p{
 	}
 	img{
 		margin:5px;
+	}
+}
+div{
+	img{
 		align-items: center;
 	}
 }
