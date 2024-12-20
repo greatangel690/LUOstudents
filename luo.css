@@ -29,8 +29,15 @@ nav a{
 	color:#757575;
 }
 p{
-	margin-left:10px;
+	margin:7px;
 	font-size: 10px;
+
+	.seven{
+		margin:5px;
+	}
+	img{
+		margin:5px;
+	}
 }
 
 
